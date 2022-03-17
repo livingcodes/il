@@ -9,6 +9,9 @@
   .entrypoint
   ldstr "Hello world"
   call void [mscorlib]System.Console::WriteLine(string)
+
+  call string [mscorlib]System.Console::ReadLine()
+  call void [mscorlib]System.Console::WriteLine(string)
   ret
  }
 }
