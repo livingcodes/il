@@ -42,3 +42,16 @@ Hurray, we assembled/compiled? our first IL.
 
 Alternatively double click exe,
 but it closes so fast I couldn't see output.
+
+# references
+
+* https://sharplab.io/
+* ILSpy
+* https://www.youtube.com/c/ImmoLandwerth
+* VS Code: IL Language Support Extension for syntax highlighting
+
+## todo
+
+* How to convert IL to c#? cs, ILSpy, Cecil?
+* Name exe
+* Reference .NET 6, extern?

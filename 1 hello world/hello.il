@@ -7,11 +7,10 @@
  cil managed
  {
   .entrypoint
-  ldstr "Hello world"
+  ldstr "hello world"
   call void [mscorlib]System.Console::WriteLine(string)
-
   call string [mscorlib]System.Console::ReadLine()
-  call void [mscorlib]System.Console::WriteLine(string)
+  pop
   ret
  }
 }
