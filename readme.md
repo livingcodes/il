@@ -31,7 +31,13 @@ Example:
 PATH=C:\Windows\Microsoft.NET\Framework\v4.0.30319
 using old .NET Framework?
 
-ilasm creates hello.exe
+Enter in command prompt
+
+```
+ilasm hello.il
+```
+
+and ilasm creates hello.exe
 
 ## hello.exe
 
