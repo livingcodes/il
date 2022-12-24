@@ -26,7 +26,7 @@ Getting started
 IL Assembler assemble?
 
 Add ilasm.exe location to command line path for convienence
-(i.e. so the path does not need to be type everytime).
+(i.e. so the path does not need to be typed everytime).
 Example:
 PATH=C:\Windows\Microsoft.NET\Framework\v4.0.30319
 using old .NET Framework?
@@ -59,5 +59,4 @@ but it closes so fast I couldn't see output.
 ## todo
 
 * How to convert IL to c#? cs, ILSpy, Cecil?
-* Name exe
-* Reference .NET 6, extern?
+* Reference extern?
